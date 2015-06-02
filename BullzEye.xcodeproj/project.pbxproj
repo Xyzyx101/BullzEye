@@ -13,6 +13,7 @@
 		050352631B1E2C8000E9B24D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 050352621B1E2C8000E9B24D /* Images.xcassets */; };
 		050352661B1E2C8000E9B24D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 050352641B1E2C8000E9B24D /* LaunchScreen.xib */; };
 		050352721B1E2C8000E9B24D /* BullzEyeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050352711B1E2C8000E9B24D /* BullzEyeTests.swift */; };
+		0503527C1B1E307300E9B24D /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 0503527B1B1E307300E9B24D /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		0503526B1B1E2C8000E9B24D /* BullzEyeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BullzEyeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		050352701B1E2C8000E9B24D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		050352711B1E2C8000E9B24D /* BullzEyeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullzEyeTests.swift; sourceTree = "<group>"; };
+		0503527B1B1E307300E9B24D /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		0503524D1B1E2C8000E9B24D = {
 			isa = PBXGroup;
 			children = (
+				0503527B1B1E307300E9B24D /* .gitignore */,
 				050352581B1E2C8000E9B24D /* BullzEye */,
 				0503526E1B1E2C8000E9B24D /* BullzEyeTests */,
 				050352571B1E2C8000E9B24D /* Products */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0503527C1B1E307300E9B24D /* .gitignore in Resources */,
 				050352611B1E2C8000E9B24D /* Main.storyboard in Resources */,
 				050352661B1E2C8000E9B24D /* LaunchScreen.xib in Resources */,
 				050352631B1E2C8000E9B24D /* Images.xcassets in Resources */,
