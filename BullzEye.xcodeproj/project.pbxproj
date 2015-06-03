@@ -413,6 +413,7 @@
 				050352771B1E2C8000E9B24D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		050352781B1E2C8000E9B24D /* Build configuration list for PBXNativeTarget "BullzEyeTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +422,7 @@
 				0503527A1B1E2C8000E9B24D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
