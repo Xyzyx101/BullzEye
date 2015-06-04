@@ -14,6 +14,7 @@
 		050352661B1E2C8000E9B24D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 050352641B1E2C8000E9B24D /* LaunchScreen.xib */; };
 		050352721B1E2C8000E9B24D /* BullzEyeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050352711B1E2C8000E9B24D /* BullzEyeTests.swift */; };
 		0503527C1B1E307300E9B24D /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 0503527B1B1E307300E9B24D /* .gitignore */; };
+		05A9F28D1B206C3D004BB15D /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = 05A9F28C1B206C3D004BB15D /* BullsEye.html */; };
 		05D2F3C61B1F708600E3EBE8 /* AboutVireControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D2F3C51B1F708600E3EBE8 /* AboutVireControllerViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -39,6 +40,7 @@
 		050352701B1E2C8000E9B24D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		050352711B1E2C8000E9B24D /* BullzEyeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullzEyeTests.swift; sourceTree = "<group>"; };
 		0503527B1B1E307300E9B24D /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		05A9F28C1B206C3D004BB15D /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 		05D2F3C51B1F708600E3EBE8 /* AboutVireControllerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutVireControllerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -82,6 +84,7 @@
 		050352581B1E2C8000E9B24D /* BullzEye */ = {
 			isa = PBXGroup;
 			children = (
+				05A9F28C1B206C3D004BB15D /* BullsEye.html */,
 				0503525B1B1E2C8000E9B24D /* AppDelegate.swift */,
 				0503525D1B1E2C8000E9B24D /* ViewController.swift */,
 				05D2F3C51B1F708600E3EBE8 /* AboutVireControllerViewController.swift */,
@@ -202,6 +205,7 @@
 				050352611B1E2C8000E9B24D /* Main.storyboard in Resources */,
 				050352661B1E2C8000E9B24D /* LaunchScreen.xib in Resources */,
 				050352631B1E2C8000E9B24D /* Images.xcassets in Resources */,
+				05A9F28D1B206C3D004BB15D /* BullsEye.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
