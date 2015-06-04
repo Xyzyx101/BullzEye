@@ -11,10 +11,11 @@
 		0503525E1B1E2C8000E9B24D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0503525D1B1E2C8000E9B24D /* ViewController.swift */; };
 		050352611B1E2C8000E9B24D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0503525F1B1E2C8000E9B24D /* Main.storyboard */; };
 		050352631B1E2C8000E9B24D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 050352621B1E2C8000E9B24D /* Images.xcassets */; };
-		050352661B1E2C8000E9B24D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 050352641B1E2C8000E9B24D /* LaunchScreen.xib */; };
 		050352721B1E2C8000E9B24D /* BullzEyeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050352711B1E2C8000E9B24D /* BullzEyeTests.swift */; };
 		0503527C1B1E307300E9B24D /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 0503527B1B1E307300E9B24D /* .gitignore */; };
 		05A9F28D1B206C3D004BB15D /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = 05A9F28C1B206C3D004BB15D /* BullsEye.html */; };
+		05A9F2901B208041004BB15D /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 05A9F28E1B208041004BB15D /* Default-568h@2x.png */; };
+		05A9F2911B208041004BB15D /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 05A9F28F1B208041004BB15D /* Default@2x.png */; };
 		05D2F3C61B1F708600E3EBE8 /* AboutVireControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D2F3C51B1F708600E3EBE8 /* AboutVireControllerViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -35,12 +36,13 @@
 		0503525D1B1E2C8000E9B24D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		050352601B1E2C8000E9B24D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		050352621B1E2C8000E9B24D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		050352651B1E2C8000E9B24D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		0503526B1B1E2C8000E9B24D /* BullzEyeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BullzEyeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		050352701B1E2C8000E9B24D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		050352711B1E2C8000E9B24D /* BullzEyeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullzEyeTests.swift; sourceTree = "<group>"; };
 		0503527B1B1E307300E9B24D /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		05A9F28C1B206C3D004BB15D /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
+		05A9F28E1B208041004BB15D /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		05A9F28F1B208041004BB15D /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		05D2F3C51B1F708600E3EBE8 /* AboutVireControllerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutVireControllerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -84,13 +86,14 @@
 		050352581B1E2C8000E9B24D /* BullzEye */ = {
 			isa = PBXGroup;
 			children = (
+				05A9F28E1B208041004BB15D /* Default-568h@2x.png */,
+				05A9F28F1B208041004BB15D /* Default@2x.png */,
 				05A9F28C1B206C3D004BB15D /* BullsEye.html */,
 				0503525B1B1E2C8000E9B24D /* AppDelegate.swift */,
 				0503525D1B1E2C8000E9B24D /* ViewController.swift */,
 				05D2F3C51B1F708600E3EBE8 /* AboutVireControllerViewController.swift */,
 				0503525F1B1E2C8000E9B24D /* Main.storyboard */,
 				050352621B1E2C8000E9B24D /* Images.xcassets */,
-				050352641B1E2C8000E9B24D /* LaunchScreen.xib */,
 				050352591B1E2C8000E9B24D /* Supporting Files */,
 			);
 			path = BullzEye;
@@ -201,10 +204,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				05A9F2911B208041004BB15D /* Default@2x.png in Resources */,
 				0503527C1B1E307300E9B24D /* .gitignore in Resources */,
 				050352611B1E2C8000E9B24D /* Main.storyboard in Resources */,
-				050352661B1E2C8000E9B24D /* LaunchScreen.xib in Resources */,
 				050352631B1E2C8000E9B24D /* Images.xcassets in Resources */,
+				05A9F2901B208041004BB15D /* Default-568h@2x.png in Resources */,
 				05A9F28D1B206C3D004BB15D /* BullsEye.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -254,14 +258,6 @@
 				050352601B1E2C8000E9B24D /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		050352641B1E2C8000E9B24D /* LaunchScreen.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				050352651B1E2C8000E9B24D /* Base */,
-			);
-			name = LaunchScreen.xib;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
